@@ -1,7 +1,7 @@
 # Introduction
 
 
-This is a code using PlotJS in Angular, for scientific computation.
+This is a code using [PlotlyJS in Angular](https://www.npmjs.com/package/angular-plotly.js?activeTab=readme), for scientific computation.
 
 # Getting started
 
@@ -22,8 +22,8 @@ See that Angular is changing all the time, and it may happen problems with confl
 # Q&A
 
 [How to install a previous exact version of a NPM package?
-](url)https://stackoverflow.com/questions/15890958/how-to-install-a-previous-exact-version-of-a-npm-package
+](https://stackoverflow.com/questions/15890958/how-to-install-a-previous-exact-version-of-a-npm-package)
 
 
 # Video
-[Conheça o PlotlyJS: Uma biblioteca para plotar gráficos científicos, interativos e awesome!](url) https://www.youtube.com/watch?v=nlsj2vJpYpM&t=144s
+[Conheça o PlotlyJS: Uma biblioteca para plotar gráficos científicos, interativos e awesome!](https://www.youtube.com/watch?v=nlsj2vJpYpM&t=144s) 
