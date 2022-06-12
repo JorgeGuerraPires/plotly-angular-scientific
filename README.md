@@ -11,6 +11,8 @@ Open VS code, or any tool of your preference.
 
 `npm i`
 
+`cd <name of the folder where the app is in>`
+
 `ng serve -o`
 
 It should start the app, working.
