@@ -1,27 +1,27 @@
-# App
+# Introduction
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
-## Development server
+This is a code using PlotJS in Angular, for scientific computation.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Getting started
 
-## Code scaffolding
+Open VS code, or any tool of your preference.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`git clone https://github.com/JorgeGuerraPires/plotly-angular-scientific.git`
 
-## Build
+`npm i`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+`ng serve -o`
 
-## Running unit tests
+It should start the app, working.
+See that Angular is changing all the time, and it may happen problems with conflicts between packages. Just go to the package.json and force to install the package versions there. Either install manually or just eliminate the ^ symbols.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+# Q&A
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+[How to install a previous exact version of a NPM package?
+](url)https://stackoverflow.com/questions/15890958/how-to-install-a-previous-exact-version-of-a-npm-package
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Video
+[Conheça o PlotlyJS: Uma biblioteca para plotar gráficos científicos, interativos e awesome!](url) https://www.youtube.com/watch?v=nlsj2vJpYpM&t=144s
